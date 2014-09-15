@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+  	<url>https://github.com/sameershah25/jenkins-plugins</url>
+  	<connection>scm:git:ssh://git@github.com/sameershah25/jenkins-plugins.git</connection>
+  	<developerConnection>scm:git:ssh://git@github.com/sameershah25/jenkins-plugins.git</developerConnection>
+  </scm>
 </project>
